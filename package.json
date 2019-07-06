@@ -4,6 +4,7 @@
   "description": "Just a test project to get familiar with HTML",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gsmitfrnt/test-project/issues"
   },
-  "homepage": "https://github.com/gsmitfrnt/test-project#readme"
+  "homepage": "https://github.com/gsmitfrnt/test-project#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
