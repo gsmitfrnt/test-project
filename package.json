@@ -1,0 +1,19 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Just a test project to get familiar with HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsmitfrnt/test-project.git"
+  },
+  "author": "Gatis Smiltins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsmitfrnt/test-project/issues"
+  },
+  "homepage": "https://github.com/gsmitfrnt/test-project#readme"
+}
